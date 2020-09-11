@@ -1,0 +1,55 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+#container
+{
+	border:1px solid black;
+	height:72%;
+	margin-top:90px;
+	width:950px;
+	margin-left:150px;
+}
+#header{
+	background:skyblue;
+	color:#fff;
+	padding:15px;
+}
+#header p{
+	font-family:segoe ui;
+	font-size:2em;
+}
+#hd{
+	border:1px solid black;
+	color:black;
+	padding:0px;
+	margin-left:15px;
+	margin-right:250px;
+	
+}
+#hd p{
+	font-family:segoe ui;
+	font-size:2em;
+}
+#ph
+{
+	border:1px solid black;
+	height:50%;
+	margin-top:-250px;
+	width:170px;
+	margin-left:750px;
+}
+#ph p
+{
+	padding:100px 60px;
+}
+#mu{
+	background:skyblue;
+	color:#fff;
+	padding:10px;
+}
+#mu p{
+	font-family:segoe ui;
+	font-size:2em;
+}
